@@ -1,9 +1,11 @@
-AI以及agent的盛行让我们越来越忽视基础
+# Without AI What Can We Do?
 
-However，without AI， what can I do?
+## 项目介绍
 
-本仓库将不再使用AIagent以及任何自动化脚本
+AI 以及 Agent 的盛行让我们越来越忽视基础。
 
-以此练习
+本仓库将不再使用 AI Agent 以及任何自动化脚本，仅用于练习。
 
-Let's try.
+## Let's try!
+
+从最基础的 Git 操作开始。
